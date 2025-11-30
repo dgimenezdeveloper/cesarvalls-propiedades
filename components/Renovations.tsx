@@ -14,16 +14,16 @@ export const Renovations: React.FC = () => {
              <div className="relative">
                {/* Main Image */}
                <img 
-                src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" 
-                alt="Reforma integral salón" 
+                src="https://plus.unsplash.com/premium_photo-1663089688180-444ff0066e5d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dhttps://unsplash.com/es/fotos/una-pareja-joven-y-feliz-que-compra-su-nuevo-hogar-y-recibe-las-llaves-de-un-agente-inmobiliario-i1gRNqPHpiw" 
+                alt="Casa típica argentina" 
                 className="rounded-2xl shadow-2xl w-full object-cover h-[500px]" 
                />
                
                {/* Overlapping Image */}
                <img 
-                src="https://images.unsplash.com/photo-1584622650111-993a426fbf0a?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" 
-                alt="Detalle cocina" 
-                className="absolute -bottom-10 -right-10 w-2/5 rounded-xl shadow-xl border-4 border-slate-900 hidden md:block" 
+                src="https://images.pexels.com/photos/34908022/pexels-photo-34908022.jpeg" 
+                alt="Foto de Nurefşan Çalışkan de Pexels" 
+                className="absolute -bottom-10 -right-10 w-1/5 rounded-xl shadow-xl border-4 border-slate-900 hidden md:block" 
                />
 
                {/* Stat Card */}
