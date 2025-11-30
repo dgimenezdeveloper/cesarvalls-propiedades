@@ -53,7 +53,7 @@ export const Header: React.FC = () => {
             className="flex items-center gap-3 group z-50"
           >
             <div className="bg-[#f7931e] p-2.5 rounded-full shadow-lg group-hover:bg-black transition-colors">
-              <img src="/public/images/logo-cesarvalls.png" alt="Cesar Valls Propiedades" className="w-10 h-10 object-contain" />
+              <img src="images/logo-cesarvalls.png" alt="Cesar Valls Propiedades" className="w-10 h-10 object-contain" />
             </div>
             <div className="flex flex-col">
               <span className="font-serif text-2xl font-bold leading-none tracking-tight text-black">Cesar Valls</span>
