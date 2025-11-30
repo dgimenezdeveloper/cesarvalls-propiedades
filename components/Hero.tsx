@@ -59,7 +59,7 @@ export const Hero: React.FC = () => {
           <div className="flex-1 relative w-full lg:h-[600px]">
             <div className="relative z-10 rounded-[2rem] overflow-hidden shadow-2xl h-full transform transition-transform hover:scale-[1.01] duration-700 border-4 border-white">
               <img 
-                src="/public/images/logo-cesarvalls.png" 
+                src="/images/logo-cesarvalls.png" 
                 alt="Cesar Valls Propiedades" 
                 className="w-full h-full object-contain bg-white p-10"
               />
