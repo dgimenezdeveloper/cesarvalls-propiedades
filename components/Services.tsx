@@ -8,49 +8,49 @@ export const Services: React.FC = () => {
     {
       id: 'rentals',
       title: "Gestión de Alquileres",
-      description: "Especialistas en la gestión integral en Valencia y periferia. Optimizamos alquileres por habitaciones y viviendas completas, garantizando tu tranquilidad.",
+      description: "Especialistas en la gestión integral de alquileres en Glew, Almirante Brown y alrededores. Optimizamos alquileres de casas, departamentos y PH, garantizando tranquilidad y seguridad.",
       icon: <Home size={24} />,
       features: [
-        "Gestión Coliving y Tradicional",
-        "Selección rigurosa (Scoring)",
-        "Garantía de cobro",
-        "Mantenimiento incluido"
+        "Gestión personalizada de propiedades",
+        "Selección rigurosa de inquilinos",
+        "Garantía de cobro y contratos seguros",
+        "Mantenimiento y atención local"
       ]
     },
     {
       id: 'shopper-investor',
-      title: "Shopper Inversores",
-      description: "Detectamos activos de alta rentabilidad antes que el mercado. Analizamos viabilidad, reformas y retorno de inversión esperado.",
+      title: "Inversores Inmobiliarios",
+      description: "Detectamos oportunidades de inversión en propiedades de alta rentabilidad en Almirante Brown y zona sur. Analizamos viabilidad, reformas y retorno de inversión real en el mercado local.",
       icon: <TrendingUp size={24} />,
       features: [
-        "Oportunidades Off-Market",
-        "Análisis financiero detallado",
-        "Cálculo de rentabilidad neta",
-        "Gestión llave en mano"
+        "Oportunidades en Glew y alrededores",
+        "Análisis financiero y legal",
+        "Cálculo de rentabilidad local",
+        "Gestión integral para inversores"
       ]
     },
     {
       id: 'shopper-personal',
-      title: "Shopper Particulares",
-      description: "Encontramos tu hogar ideal en cualquier punto de España. Defendemos tus intereses, negociamos el precio y revisamos toda la legalidad.",
+      title: "Buscador de Propiedades",
+      description: "Encontramos tu hogar ideal en Glew, Almirante Brown y Buenos Aires. Defendemos tus intereses, negociamos el precio y revisamos toda la documentación legal.",
       icon: <Search size={24} />,
       features: [
-        "Búsqueda a nivel nacional",
+        "Búsqueda personalizada en zona sur",
         "Negociación experta",
-        "Revisión de cargas y contratos",
-        "Acompañamiento a notaría"
+        "Revisión de contratos y escrituras",
+        "Acompañamiento en todo el proceso"
       ]
     },
     {
       id: 'renovations',
       title: "Reformas y Adecuación",
-      description: "Equipo propio especializado en transformar propiedades. Desde Home Staging para alquiler hasta reformas integrales de lujo.",
+      description: "Equipo local especializado en transformar propiedades en Almirante Brown y zona sur. Realizamos reformas, adecuaciones y mejoras para alquiler o venta, adaptadas al mercado argentino.",
       icon: <Hammer size={24} />,
       features: [
-        "Diseño y ejecución de obra",
-        "Home Staging estratégico",
-        "Incremento de valor del activo",
-        "Plazos garantizados"
+        "Diseño y ejecución de obras locales",
+        "Home Staging adaptado a la zona",
+        "Incremento de valor en el mercado local",
+        "Cumplimiento de plazos y calidad"
       ]
     }
   ];
