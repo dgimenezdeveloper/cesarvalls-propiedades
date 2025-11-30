@@ -78,9 +78,9 @@ export const Contact: React.FC = () => {
             </div>
 
             <div className="mt-12 pt-8 border-t border-white/10">
-               <p className="flex items-center gap-2 text-sm text-brand-200">
+               {/* <p className="flex items-center gap-2 text-sm text-brand-200">
                  <MessageSquare size={16} /> Hablamos Español, English & Français
-               </p>
+               </p> */}
             </div>
           </div>
 
