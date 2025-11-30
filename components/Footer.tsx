@@ -9,7 +9,7 @@ export const Footer: React.FC = () => {
           {/* Logo y contacto */}
           <div className="col-span-1 md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
-              <img src="/public/images/logo-cesarvalls.png" alt="Cesar Valls Propiedades" className="w-10 h-10 object-contain bg-[#f7931e] rounded-full p-1" />
+              <img src="/images/logo-cesarvalls.png" alt="Cesar Valls Propiedades" className="w-10 h-10 object-contain bg-[#f7931e] rounded-full p-1" />
               <span className="font-serif text-xl font-bold text-[#f7931e]">Cesar Valls Propiedades</span>
             </div>
             <p className="text-sm leading-relaxed mb-6 text-[#f7931e]">
